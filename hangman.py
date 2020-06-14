@@ -88,7 +88,7 @@ while (game_status == 'restart'):
     
     print('this word has %d letters' %len(correct_word_list)) 
     print(correct_word_list)
-    print(mystery)
+    #print(mystery)
     def get_matches(user_input, mystery_word_list):
       matches=[]
       indx = 0
