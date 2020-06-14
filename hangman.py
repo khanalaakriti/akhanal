@@ -135,7 +135,7 @@ while (game_status == 'restart'):
         none_remaining()
       print('--------------------------')
       user_input = input('guess a letter: ')
-      os.system('cls')
+      #os.system('cls')
       print('--------------------------')
     
       matches = get_matches(user_input, mystery_word_list)
