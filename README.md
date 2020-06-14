@@ -1,1 +1,2 @@
-# akhanal
+# HANGMAN- Description of the Game
+The player will endeavor to guess a pre-determined word set by the creator of the game which is listed in words.txt. There will be a designated number of spaces for the word, as well as a box containing all possible letter choices.  If the player guesses an incorrect letter, the corresponding letter in the text box will be eliminated, and then a notification will appear informing the player of how many guesses they have left.
