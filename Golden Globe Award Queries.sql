@@ -1,3 +1,7 @@
+-- I created this project to track the number of times a certain actor, director, or film has won/been nominated for 
+-- the Golden Globes in the past year (2019-2020). I collected the dataset from Kaggle and created tables and 
+-- forward engineered the dataset to be able to write and execute queries to answer questions about the dataset.
+
 -- Who were the nominees for Best Director -  Motion Picture and how many people were nominated?
 USE golden_globes;
 CREATE OR REPLACE VIEW directors AS
